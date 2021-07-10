@@ -1,0 +1,9 @@
+1. Understand the dataset
+2. Load the dataset
+3. Perform Data preprocessing -- remove non required columns, merge datasets
+4. Perform EDA (Exploratory Data Analysis)
+   -- descriptive statistics
+   -- perform outlier treatment
+   -- univariate analysis, bivariate analysis and multivariate analysis as per dataset
+5. Develop Machine Learning Model
+6. Deploy the Machine Learning Model
